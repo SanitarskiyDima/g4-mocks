@@ -1,0 +1,79 @@
+{
+    "articles": [
+        {
+            "slug": "test-onifke",
+            "title": "Test",
+            "description": "",
+            "body": "",
+            "createdAt": "2023-06-13T17:11:41.205Z",
+            "updatedAt": "2023-06-13T17:11:41.205Z",
+            "tagList": [],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "dyntanya2",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        },
+        {
+            "slug": "test-slug",
+            "title": "FAKE ARTICLE",
+            "description": "FAKE ARTICLE",
+            "body": "FAKE ARTICLE",
+            "createdAt": "2023-06-13T17:11:35.554Z",
+            "updatedAt": "2023-06-13T17:11:35.554Z",
+            "tagList": [
+                "TestTag"
+            ],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "sanitarskyi",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        },
+        {
+            "slug": "qwe-epqcd2",
+            "title": "qwe",
+            "description": "qwe",
+            "body": "qwe",
+            "createdAt": "2022-10-27T18:02:53.739Z",
+            "updatedAt": "2022-10-27T18:02:53.739Z",
+            "tagList": [
+                "qwe"
+            ],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "dmytro",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        },
+        {
+            "slug": "qwe-fnvv48",
+            "title": "qwe",
+            "description": "qwe",
+            "body": "qwe",
+            "createdAt": "2022-10-27T18:02:53.343Z",
+            "updatedAt": "2022-10-27T18:02:53.343Z",
+            "tagList": [
+                "qwe"
+            ],
+            "favorited": false,
+            "favoritesCount": 1,
+            "author": {
+                "username": "dmytro",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        }
+    ],
+    "articlesCount": 4
+}
